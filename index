@@ -1,0 +1,151 @@
+  <div class="container-fluid"> <!--Parent that contains all layout elements-->
+
+    <div clas="row"> <!--Row 1: Header Row-->
+
+      <div class="col-lg-6"> <!--Panel:  Initiative Name & Overall Health Status-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Overall Status</div>
+            <div class="panel-body">
+                Doggo ipsum borking doggo long doggo very hand that feed shibe yapper doggorino ruff very good spot blep, heckin good boys pupper long water shoob h*ck most angery pupper I have ever seen. Very jealous pupper long doggo wow very biscit porgo super chub, such treat sub woofer heckin. Most angery pupper I have ever seen snoot h*ck shoob you are doin me a concern, doggo heckin good boys and girls aqua doggo. Dat tungg tho boofers sub woofer long water shoob blop, big ol pupper shoober wrinkler. heckin good boys and girls. Super chub what a nice floof smol borking doggo with a long snoot for pats heck floofs boofers, shibe pupperino heckin good boys and girls. Shibe borking doggo puggo long bois, the neighborhood pupper fluffer.
+            </div>
+        </div>
+      </div>
+
+      <div class="col-lg-6"> <!--Panel:  Initiative Links List-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Quick Links</div>
+            <div class="panel-body">
+                Many pats shooberino vvv clouds mlem, adorable doggo heckin shooberino. shoob blop heckin angery woofer. Shoob maximum borkdrive wrinkler borking doggo length boy the neighborhood pupper, doggo mlem clouds heckin good boys. Wrinkler very hand that feed shibe long woofer woofer pupperino borkf the neighborhood pupper, bork you are doing me the shock puggo much ruin diet. Shooberino what a nice floof sub woofer stop it fren clouds snoot blep, wrinkler snoot boof yapper. Very good spot woofer smol borking doggo with a long snoot for pats ur givin me a spook, you are doin me a concern heckin angery woofer, shooberino ur givin me a spook. Shoober many pats shoober wow such tempt h*ck you are doing me a frighten heckin angery woofer, borkdrive very hand that feed shibe puggo shoob extremely cuuuuuute. Clouds puggorino heckin good boys maximum borkdrive, adorable doggo super chub. Big ol smol heckin good boys and girls, big ol.
+            </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">  <!--Row 2-->
+
+      <div class="col-sm-2">  
+        <div class="panel panel-primary">
+            <div class="panel-heading">Responsible</div>
+            <div class="panel-body">
+                H*ck extremely cuuuuuute puggorino noodle horse long doggo, floofs yapper. Very good spot he made many woofs very jealous pupper, borkdrive. Floofs ur givin me a spook heckin pupperino, long water shoob smol borking doggo with a long snoot for pats. Snoot clouds long doggo most angery pupper I have ever seen ruff, you are doing me the shock wow such tempt fluffer you are doing me a frighten fat boi, borking doggo adorable doggo bork. Shibe many pats wow such tempt doggorino blop woofer, porgo floofs doggorino. Heckin mlem tungg clouds, extremely cuuuuuute h*ck heckin good boys borkdrive, blep maximum borkdrive. Long bois long doggo pats smol borking doggo with a long snoot for pats, woofer. Lotsa pats super chub blep waggy wags fluffer, pats very jealous pupper very good spot.
+            </div>
+        </div> <!--Panel:  RACI-Responsible-->
+      </div>
+
+      <div class="col-sm-2">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Accountable</div>
+            <div class="panel-body">
+                Heckin doggo I am bekom fat doing me a frighten pupper, floofs heckin long doggo.  Heckin angery woofer extremely cuuuuuute tungg very jealous pupper pupper, smol boofers vvv. Waggy wags very good spot sub woofer wow very biscit boofers clouds, ur givin me a spook woofer shibe. Heckin heckin good boys and girls dat tungg tho big ol pupper, I am bekom fat. Much ruin diet puggorino doing me a frighten adorable doggo dat tungg tho super chub you are doing me the shock, many pats heckin angery woofer mlem blep. Shibe yapper extremely cuuuuuute aqua doggo, very taste wow. Heckin angery woofer pupper smol borking doggo with a long snoot for pats tungg big ol, boof doge clouds. Waggy wags super chub wrinkler borkdrive, aqua doggo pupperino. Shibe heckin doggo big ol waggy wags, pupper aqua doggo ruff. Shooberino fluffer ur givin me a spook corgo he made many woofs, pupperino smol borking doggo with a long snoot for pats. Very taste wow long bois the neighborhood pupper boofers doge heck, very hand that feed shibe length boy wow such tempt.
+            </div>
+        </div> <!--Panel:  RACI-Accountable-->
+      </div>
+
+      <div class="col-sm-2">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Consulted</div>
+            <div class="panel-body">
+                Woofer smol borking doggo with a long snoot for pats puggo the neighborhood pupper, doggo long water shoob vvv pats, heckin good boys and girls shoob. Shooberino heckin angery woofer yapper puggo long doggo wrinkler, heckin good boys shooberino long doggo porgo. Mlem many pats very taste wow shibe, wow very biscit big ol. boof very taste wow. Heckin good boys pupper borkdrive porgo smol dat tungg tho, aqua doggo porgo long water shoob lotsa pats. he made many woofs. Heckin angery woofer sub woofer wow very biscit you are doing me a frighten puggorino borkf, heck super chub such treat. Long water shoob you are doin me a concern smol borking doggo with a long snoot for pats corgo such treat, wow such tempt long bois.
+            </div>    
+        </div> <!--Panel:  RACI-Consulted-->
+      </div>
+
+      <div class="col-sm-2">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Informed</div>
+            <div class="panel-body">
+            Big ol very hand that feed shibe shoober extremely cuuuuuute corgo many pats, doggo yapper mlem pupper extremely cuuuuuute, shibe such treat yapper smol. Doggorino I am bekom fat h*ck lotsa pats h*ck woofer, long water shoob I am bekom fat lotsa pats. Borking doggo doge h*ck heckin borking doggo sub woofer, extremely cuuuuuute I am bekom fat heckin good boys. doggorino long bois puggorino. most angery pupper I have ever seen doggorino. Heckin angery woofer boof floofs very taste wow extremely cuuuuuute borkf shibe, boof stop it fren pupperino very good spot noodle horse extremely cuuuuuute, many pats sub woofer dat tungg tho porgo sub woofer. Much ruin diet h*ck clouds, doing me a frighten. H*ck doing me a frighten boof shooberino super chub tungg aqua doggo, long water shoob blep you are doing me a frighten extremely cuuuuuute most angery pupper I have ever seen. Very hand that feed shibe big ol pupper smol borking doggo with a long snoot for pats the neighborhood pupper boof ruff, sub woofer borkf porgo.
+        </div>
+        </div> <!--Panel:  RACI-Informed-->
+      </div>
+
+      <div class="col-sm-4"> <!--Panel:  Snapshot-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Snapshot</div>
+            <div class="panel-body">
+                Tungg heckin shibe blep, wow such tempt very good spot doggorino wow such tempt, stop it fren bork. Wrinkler corgo heckin borkdrive woofer, fat boi pupper puggo. Very taste wow puggo very good spot aqua doggo super chub ur givin me a spook pupper blop maximum borkdrive boofers noodle horse, heck big ol pupper super chub many pats very good spot fluffer borking doggo sub woofer. Bork you are doing me a frighten big ol puggo snoot yapper, sub woofer most angery pupper I have ever seen you are doing me a frighten adorable doggo.
+            </div>    
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">  <!--Row 3-->
+
+      <div class="col-md-6"> <!--Panel: Executive Summary-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Executive Summary</div>
+            <div class="panel-body">
+                Doggo ipsum ruff very jealous pupper super chub, big ol. Porgo mlem long water shoob very taste wow, thicc ruff. Doggo adorable doggo big ol pupper yapper very hand that feed shibe, very jealous pupper pupper bork. Puggo long bois big ol you are doin me a concern what a nice floof pupperino sub woofer smol, he made many woofs doggorino boof wrinkler h*ck heckin.
+            </div>
+        </div>
+      </div>
+
+      <div class="col-md-6"> <!--Panel: Recent Accomplishments-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Recent Accomplishments</div>
+            <div class="panel-body">
+                Doggo ipsum waggy wags woofer the neighborhood pupper what a nice floof I am bekom fat, very hand that feed shibe you are doing me a frighten blep the neighborhood pupper, heck what a nice floof ruff. Much ruin diet you are doing me a frighten snoot pupper fat boi pupper floofs, blep borkdrive h*ck such treat you are doin me a concern, shoober length boy heckin angery woofer woofer porgo. What a nice floof most angery pupper I have ever seen you are doin me a concern most angery pupper I have ever seen mlem, borkf most angery pupper I have ever seen woofer shoober, ur givin me a spook pupperino borkdrive. Doggo very good spot wow very biscit, fluffer. Long doggo long bois fat boi porgo doge lotsa pats, many pats thicc heckin good boys smol most angery pupper I have ever seen, super chub yapper mlem wow very biscit. Blep length boy pats sub woofer most angery pupper I have ever seen, long water shoob very hand that feed shibe boofers.
+            </div>
+            </div>
+      </div>
+
+    </div>
+
+    <div class="row">  <!--Row 4-->
+
+      <div class="col-md-6"> <!--Panel: Upcoming Features-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Upcoming AHA Features</div>
+            <div class="panel-body">
+                Doggo ipsum what a nice floof heckin angery woofer boofers heckin aqua doggo heckin good boys, wow such tempt heckin good boys many pats thicc. Pupper wow very biscit boofers the neighborhood pupper fat boi super chub, you are doing me the shock boof you are doing me a frighten I am bekom fat. Doggorino long woofer boofers smol he made many woofs, noodle horse borkdrive borking doggo. Heckin dat tungg tho shoob h*ck mlem the neighborhood pupper, heckin angery woofer shooberino doggorino. Long woofer the neighborhood pupper many pats doing me a frighten smol, very jealous pupper big ol pupper. Adorable doggo floofs dat tungg tho noodle horse shooberino, doge pupper lotsa pats stop it fren doggo, heckin good boys and girls bork very jealous pupper. Such treat the neighborhood pupper extremely cuuuuuute snoot, floofs. pupperino. Very jealous pupper he made many woofs noodle horse very jealous pupper floofs, waggy wags puggorino.    
+            </div>
+        </div> 
+      </div>
+
+      <div class="col-md-6"> <!--Panel: Upcoming Releases-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Upcoming AHA Releases</div>
+            <div class="panel-body">
+                Doggo ipsum boof fluffer. Noodle horse shibe doing me a frighten wrinkler heckin good boys shibe, the neighborhood pupper aqua doggo long woofer big ol pupper. Bork blep dat tungg tho porgo, you are doing me the shock smol. shoob such treat. Shoob extremely cuuuuuute shoob noodle horse wow very biscit, boofers borking doggo. Doing me a frighten smol borking doggo with a long snoot for pats borking doggo very jealous pupper long doggo, noodle horse shoober heckin angery woofer. what a nice floof he made many woofs big ol pupper. Most angery pupper I have ever seen doggo shibe heck fat boi big ol pupper long bois length boy, boof h*ck heckin wrinkler puggorino. Much ruin diet super chub what a nice floof big ol pupper, floofs aqua doggo. Bork extremely cuuuuuute heck fat boi, smol borking doggo with a long snoot for pats big ol pupper.
+            </div>
+        </div> 
+      </div>
+    </div>
+  
+    <div class="row">  <!--Row 5-->
+
+        <div class="col-lg-12"> <!--Panel: RAID-->
+            <div class="panel panel-primary">
+                <div class="panel-heading">RAID (Risks, Assumptions, Issues, Decisions)</div>
+                <div class="panel-body">
+                    Doggo ipsum long doggo aqua doggo borkdrive h*ck long bois ur givin me a spook, noodle horse blop long woofer. smol borking doggo with a long snoot for pats heckin angery woofer borking doggo. Such treat wrinkler you are doing me a frighten doing me a frighten, smol very good spot. very taste wow wrinkler. Pupperino smol long water shoob you are doing me the shock heckin good boys and girls, such treat adorable doggo.  You are doin me a concern dat tungg tho very good spot, you are doin me a concern. length boy wrinkler boofers. Very jealous pupper doggo ruff floofs vvv borking doggo, very good spot mlem very taste wow big ol ur givin me a spook, porgo smol borking doggo with a long snoot for pats very jealous pupper stop it fren.
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">  <!--Row 7-->
+
+      <div class="col-lg-8"> <!--Panel:  Dependent Ideas-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">Dependent AHA Ideas</div>
+            <div class="panel-body">
+                Doggo ipsum noodle horse ruff boofers thicc big ol pupper blep, adorable doggo very jealous pupper thicc length boy. Heckin angery woofer fat boi blop waggy wags shoober stop it fren, much ruin diet blop you are doing me a frighten. You are doing me the shock bork waggy wags corgo much ruin diet pats, blep you are doin me a concern maximum borkdrive. Boof heckin most angery pupper I have ever seen corgo puggo smol, doing me a frighten long bois borkdrive.
+            </div>
+        </div> 
+      </div>
+      
+      <div class="col-lg-4">
+        <div class="panel panel-primary">
+            <div class="panel-heading">AHA Ideas</div>
+            <div class="panel-body">
+                Doggo ipsum clouds doggo boofers wrinkler, wow such tempt h*ck. Puggorino heckin good boys and girls pats aqua doggo sub woofer, heckin angery woofer pupper. Heck ruff vvv smol maximum borkdrive borking doggo, noodle horse shoob boofers smol borking doggo with a long snoot for pats. clouds snoot big ol. Yapper pupperino I am bekom fat ruff waggy wags heck, long bois big ol heckin angery woofer. heck. Very jealous pupper shoober pupperino borkdrive heckin good boys most angery pupper I have ever seen doggo, vvv heck heckin good boys boofers big ol pupper heck, puggorino noodle horse extremely cuuuuuute snoot boofers. Fluffer big ol pupper puggorino wrinkler dat tungg tho heckin good boys mlem, smol borking doggo with a long snoot for pats big ol ruff long water shoob maximum borkdrive.
+            </div>
+        </div>
+      </div> 
+
+    </div>
+  </div>
+ 
